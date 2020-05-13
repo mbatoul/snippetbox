@@ -17,3 +17,5 @@ https://gist.github.com/
 
 - https://deviq.com/category/principles/
 - https://www.youtube.com/watch?v=exbKr6fnoUw
+- https://semver.org/
+- https://en.wikipedia.org/wiki/OSI_model
