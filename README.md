@@ -11,7 +11,9 @@ https://gist.github.com/
 ## Tools and librairies
 
 - https://ace.c9.io
+- https://codemirror.net/
 
 ## Learning materials
 
 - https://deviq.com/category/principles/
+- https://www.youtube.com/watch?v=exbKr6fnoUw
