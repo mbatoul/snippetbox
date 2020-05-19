@@ -19,3 +19,5 @@ https://gist.github.com/
 - https://www.youtube.com/watch?v=exbKr6fnoUw
 - https://semver.org/
 - https://en.wikipedia.org/wiki/OSI_model
+- https://www.alexedwards.net/blog/understanding-mutexes
+- https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65
